@@ -1,5 +1,11 @@
 ## SD Document Sender Releases
 
+### 13.0.0
+
+#### Enhancements
+
+- AppSource App - An option was added to the Job Cards to aggregate drafts per account code. Existing draft generation and draft issuing code was reworked to allow for this option. 
+
 ### 12.0.0
 
 #### Enhancements
