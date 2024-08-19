@@ -4,7 +4,7 @@
 
 #### Enhancements
 
-- AppSource App - An option was added to the Job Cards to aggregate drafts per account code. Existing draft generation and draft issuing code was reworked to allow for this option. 
+- AppSource App - An option was added to the Job Cards to aggregate drafts per account code. Existing draft generation and draft issuing code was reworked to allow for this option. For Job Types of Sales Quote, Sales Order, Reminder, Purchase Order, Service Order, and Service Quote a draft is generated per document but the documents are grouped together into a single email per account when issued. The rest of the drafts are posted to history but not issued. For Job Types of Sales Shipment, Sales Invoice, Sales Credit Memo, and Purchase Invoice a single draft with multiple attachments is generated per account.
 
 ### 12.0.0
 
