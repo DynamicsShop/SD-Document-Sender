@@ -1,5 +1,11 @@
 ## SD Document Sender Releases
 
+### 13.0.1
+
+#### Bug Fixes
+
+- AppSource App - Text Flowfields were not calculating in the templates when set as placeholder fields. 
+
 ### 13.0.0
 
 #### Enhancements
