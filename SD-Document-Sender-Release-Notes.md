@@ -1,5 +1,19 @@
 ## SD Document Sender Releases
 
+### 13.0.2
+
+#### Enhancements
+
+- AppSource App - A change was made to the licence expiry notification. The logic for checking for expiry dates was reworked.
+
+- AppSource App - Enhancements were made to the App Request Subscription page.
+
+- AppSource App - Additional phrases were added as search phrases for the SD Document Sender pages.
+
+- AppSource App - ToolTips were updated in the About, Product Activation, and Tenant Subscription pages.
+
+- AppSource App - The status detail displayed on the Drafts in Error is updated to display a meaningful message Graph API is used to send emails and the Graph API token has expired.
+
 ### 13.0.1
 
 #### Bug Fixes
