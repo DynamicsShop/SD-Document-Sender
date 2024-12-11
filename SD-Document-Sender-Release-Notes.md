@@ -12,7 +12,7 @@
 
 - AppSource App - ToolTips were updated in the About, Product Activation, and Tenant Subscription pages.
 
-- AppSource App - The status detail displayed on the Drafts in Error is updated to display a meaningful message Graph API is used to send emails and the Graph API token has expired.
+- AppSource App - The status detail displayed on the Drafts in Error is updated to display a meaningful message if Graph API is used to send emails and the Graph API token has expired.
 
 ### 13.0.1
 
