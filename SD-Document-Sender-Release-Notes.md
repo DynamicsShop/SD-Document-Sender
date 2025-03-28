@@ -1,5 +1,29 @@
 ## SD Document Sender Releases
 
+### 14.0.0
+
+#### Enhancements
+
+- AppSource App - New functionality to send draft attachments directly to SFTP. A new delivery method of File Transfer was added to the SD Document Sender Jobs.
+
+- AppSource App - Account Salesperson/Purchasers and Document Salesperson/Purchasers were added as a Recipient Source on the SD Document Sender Jobs.
+
+- AppSource App - For Jobs with the option to Group Documents on Draft enabled, a check was added to prevent users from adding Document, Document Contact or Document Salesperson/Purchaser to the recipients.
+
+- AppSource App - A new Licence Install and Setup Wizard was added to SD Document Sender.
+
+- AppSource App - A number of UI Changes were made to the SD Document Sender Setup Card.
+
+- AppSource App - Various UI changes were made to the Job Card. ToolTips were also updated. 
+
+- AppSource App - ToolTips were updated on SD Document Sender pages.
+
+- AppSource App - A change was made to display the contents of the HTML control when the Draft is in view mode.
+
+- AppSource App - A new action was added to the Setup Card called View Our Apps. This action opens a page on AppSource pointing to all our Simply Dynamics Ltd apps. 
+
+- AppSource App - Changes were made to Role Centre and the Attention Activities Card Part to reflect the new File Transfer functionality.
+
 ### 13.0.2
 
 #### Enhancements
