@@ -10,8 +10,6 @@
 
 - AppSource App - For Jobs with the option to Group Documents on Draft enabled, a check was added to prevent users from adding Document, Document Contact or Document Salesperson/Purchaser to the recipients.
 
-- AppSource App - A new Licence Install and Setup Wizard was added to SD Document Sender.
-
 - AppSource App - A number of UI Changes were made to the SD Document Sender Setup Card.
 
 - AppSource App - Various UI changes were made to the Job Card. ToolTips were also updated. 
