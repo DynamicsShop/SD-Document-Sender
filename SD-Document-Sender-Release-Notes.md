@@ -6,7 +6,7 @@
 
 - AppSource App - A new Licence Install and Setup Wizard was created.
 
-- AppSource App - The notification to activate the app, displayed on fresh install of SD Interface Banking, was added to the standard Business Central role centres.
+- AppSource App - The notification to activate the app, displayed on fresh install of SD Document Sender, was added to the standard Business Central role centres.
 
 - AppSource App - Changes were made to the Manage Subscriptions page.
 
