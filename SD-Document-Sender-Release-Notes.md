@@ -1,5 +1,19 @@
 ## SD Document Sender Releases
 
+### 14.1.0
+
+#### Enhancements
+
+- AppSource App - A new Licence Install and Setup Wizard was created.
+
+- AppSource App - The notification to activate the app, displayed on fresh install of SD Interface Banking, was added to the standard Business Central role centres.
+
+- AppSource App - Changes were made to the Manage Subscriptions page.
+
+- AppSource App - The Lead Subscription Link from the Request Subscription action in the Product Activation page was updated.
+
+- AppSource App - A minor change was made to the About page.
+
 ### 14.0.0
 
 #### Enhancements
