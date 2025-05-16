@@ -1,5 +1,11 @@
 ## SD Document Sender Releases
 
+### 14.1.2
+
+#### Enhancements
+
+- AppSource App - A modification was made to the Setup Wizard.
+
 ### 14.1.1
 
 #### Enhancements
