@@ -1,5 +1,11 @@
 ## SD Document Sender Releases
 
+### 14.1.1
+
+#### Enhancements
+
+- AppSource App - A minor enhancement was made to the user experience flow on initial install of SD Document Sender.
+
 ### 14.1.0
 
 #### Enhancements
