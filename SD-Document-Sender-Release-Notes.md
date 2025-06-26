@@ -1,5 +1,15 @@
 ## SD Document Sender Releases
 
+### 14.1.3
+
+#### Enhancements
+
+- AppSource App - A change was made to the HTML Editor to auto insert a hyperlink in the outgoing email if the placeholder field on the Email Template has a URL structure. 
+
+- AppSource App - The Next Run Date Formula field from the Job Queue Entry (472) was surfaced on the SDY DS Job Queue Entry Card (43014107, Card).
+
+- AppSource App - A minor change was made to the Product Activation page.
+
 ### 14.1.2
 
 #### Enhancements
