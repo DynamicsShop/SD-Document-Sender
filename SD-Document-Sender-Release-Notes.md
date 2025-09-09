@@ -1,5 +1,13 @@
 ## SD Document Sender Releases
 
+### 14.1.4
+
+#### Enhancements
+
+- AppSource App - A link to the user guide on the DynamicsShop page was added to the About page and to the Manage Subscriptions page.
+
+- AppSource App - The functionality to select an Email Body Layout on a Job, which allows you to use the Email Body Layout in place of the SD Document Sender Template when generating the Email Subject and Body for the Draft, was reinstated.
+
 ### 14.1.3
 
 #### Enhancements
@@ -199,6 +207,7 @@
 - AppSource App - The message raised when Issuing Drafts from the Draft Card was changed. 
 
 - AppSource App - For a Job of Type Sales Invoice - Review the code that calculates the due date range for including invoices when generating drafts was reviewed and reworked. 
+
 
 
 
