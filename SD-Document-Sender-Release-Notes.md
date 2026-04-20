@@ -1,5 +1,17 @@
 ## SD Document Sender Releases
 
+### 14.1.5
+
+#### Enhancements
+
+- AppSource App - Filter parsing in GenerateXmlParams was improved to handle embedded commas in filters safely.
+
+- AppSource App - A change was made to remove a full stop (.) from the generated draft file name in instances where the Account Code contains a full stop.
+
+- AppSource App - A new event OnGetReportTableNo was added to codeunit 43014108 "SDY DS Data Mgt.".
+
+- AppSource App - The notification prompting users to activate a free trial of SD Document Sender on a fresh install has been limited to display no more than once per hour on standard role centres.
+
 ### 14.1.4
 
 #### Enhancements
