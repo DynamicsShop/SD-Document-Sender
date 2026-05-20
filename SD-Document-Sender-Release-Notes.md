@@ -1,5 +1,15 @@
 ## SD Document Sender Releases
 
+### 14.1.6
+
+#### Enhancements
+
+- AppSource App - Changes were made to the field filtering, specified in the SD Document Sender Job Card, to handle non English languages.
+
+#### Bug Fixes
+
+- AppSource App - A fix to the Draft Attachment Report Document Numbering was made. This arose out of the change in release v14.1.5 where a change was made to remove a full stop (.) from the generated draft file attachment name in instances where the Account Code contains a full stop. This caused the report attachments on the drafts, that have a document number, to generate the attachment name with the Account Number rather than with the document number. This is now fixed.  
+
 ### 14.1.5
 
 #### Enhancements
