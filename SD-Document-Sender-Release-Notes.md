@@ -1,5 +1,21 @@
 ## SD Document Sender Releases
 
+### 14.2.0
+
+#### Enhancements
+
+- Telemetry was added to log when Drafts are inserted into the SD Document Sender History table.
+
+- The SD Document Sender Attention Activities CardPart was added to the standard BC Accountant, Accounts Payable Administrator and Accounts Receivable Administrator Role Centres.
+
+- An event was added to the SDY DS Report Mgt. Codeunit to allow additional custom parameters to be passed to a report.
+
+- The link in the View Our Apps action on the Setup Card was updated.
+
+- The Manage Subscriptions Page, accessed from the Setup Card, was updated.
+
+- An update was made to the message displayed on the Activation page on initial installation of the App.
+
 ### 14.1.6
 
 #### Enhancements
